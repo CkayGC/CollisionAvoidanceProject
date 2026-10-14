@@ -16,4 +16,4 @@ An interactive browser simulation where agents move between nodes. Add or remove
 - Agent navigation
 - Conflict detection
 - Interactive canvas controls
-# CollisionAvoidanceProject
+

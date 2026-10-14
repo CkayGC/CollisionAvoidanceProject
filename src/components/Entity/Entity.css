@@ -1,0 +1,9 @@
+.entityImage {
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    
+    /* This automatically removes a pure white background */
+    filter: invert(1); 
+    mix-blend-mode: screen; 
+}
